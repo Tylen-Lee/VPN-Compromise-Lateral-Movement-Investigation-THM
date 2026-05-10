@@ -10,7 +10,6 @@ Using manual log analysis techniques, the goal is to understand how attackers ga
 
 Additionally, this investigation highlights the importance of log visibility, monitoring, and proactive security measures in defending enterprise environments.
 
----
 
 ## 🔍 Key Takeaways
 
@@ -24,7 +23,6 @@ Additionally, this investigation highlights the importance of log visibility, mo
 - Awareness of potential data movement and exfiltration techniques  
 - Understanding the importance of correlating multiple log sources  
 
----
 
 ## 🧠 Skills Learned
 
@@ -37,7 +35,6 @@ Additionally, this investigation highlights the importance of log visibility, mo
 - Basic understanding of C2 communication patterns  
 - Analytical thinking and investigative methodology  
 
----
 
 ## 🛠 Tools & Technologies
 
@@ -48,7 +45,6 @@ Additionally, this investigation highlights the importance of log visibility, mo
 - IDS Alert Logs  
 - Network Monitoring & Log Analysis Techniques  
 
----
 
 ## 🔗 MITRE ATT&CK Mapping
 
@@ -61,7 +57,6 @@ This lab activity can be mapped to the following adversary tactics and technique
 - **Command & Control** – Beaconing to external C2 infrastructure  
 - **Exfiltration (Potential)** – Data transfer over SMB  
 
----
 
 ## 📄 Lab Report
 
@@ -69,7 +64,7 @@ Click below to view the full investigation report:
 
 [![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](./VPN-Compromise-Lateral-Movement-Investigation.pdf)
 
----
+
 
 ## 📸 Sample Evidence
 
