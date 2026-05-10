@@ -1,1 +1,1 @@
-# Network-Security-Log-Analysis---THM
+# VPN-Compromise-&-Lateral-Movement-Investigation-THM
