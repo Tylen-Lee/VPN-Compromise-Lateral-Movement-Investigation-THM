@@ -62,13 +62,11 @@ This lab activity can be mapped to the following adversary tactics and technique
 
 Click below to view the full investigation report:
 
-[![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](./VPN-Compromise-Lateral-Movement-Investigation.pdf)
+[![View Report](https://img.shields.io/badge/View-Full%20PDF-lime?style=for-the-badge)](VPN-Compromise-&-Lateral-Movement-Investigation-THM.pdf)
 
 
+<img width="1034" height="432" alt="image" src="https://github.com/user-attachments/assets/cc1fd71f-5172-4321-ab91-c6a0e9b1451d" />
 
-## 📸 Sample Evidence
-
-![Log Analysis Screenshot](screenshots/firewall_analysis.png)
 
 
 
